@@ -3,4 +3,4 @@ Task 1: Learn GitHub web editor
 Task 2: Create branch and PR
 Task 3: Implement feature-update changes
 
-New Section: feature-update completed by Tushar Chobhe on 04-12-2025
+New Section: feature-update completed by Tushar Chobhe on 04-12-2025.
