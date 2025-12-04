@@ -1,0 +1,3 @@
+Internship notes:
+-Task 1: Learn GitHub web editor
+Task 2: Create branch and Pull Request
